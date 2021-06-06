@@ -18,7 +18,7 @@ function HomeContent() {
             <p>Popular Series</p>
         </div>
         </NavLink>
-        <NavLink to="/Moviess">
+        <NavLink to="/Movies">
         <div className="c_sub">
             <img src={Movies} alt="im" />
             <p>Popular Movies</p>
