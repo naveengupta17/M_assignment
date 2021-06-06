@@ -1,0 +1,38 @@
+.c_header{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgba(24, 23, 23, 0.774);
+    color: rgb(107, 99, 99);
+}
+.c_content{
+
+    margin:2vh 8vw;
+    overflow:scroll;
+    width: 85vw;
+    height: 50vh;
+    
+
+}
+.c_sub{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    width:170px;
+    height: 200px;
+    overflow: hidden;
+}
+.c_header p{
+    line-height: 8vh;
+    color: white;
+    font-size: 25px;
+    margin-left: 8vw;
+}
+.c_sub img{
+    width:150px;
+    height: 180px;
+}
+.c_sub p{
+    display: block;
+    width:100px;
+    font-size: 10px;
+}

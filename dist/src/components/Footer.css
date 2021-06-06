@@ -1,0 +1,49 @@
+.footer{
+    position: absolute;
+    bottom: 0%;
+    color: white;
+    background-color: rgb(42, 44, 46);
+    width:100vw;
+    height:30vh;
+}
+.f_links{
+    margin:5vh 0vw 5vh 10vw;
+}
+.footer  a{
+    color: rgb(255, 255, 255);
+    
+    text-decoration: none;
+    font-size: 12px;
+   
+
+}
+pre{
+    display: inline;
+    color: rgb(201, 204, 206);
+}
+.f_copy{
+    margin-top: 2vh;
+    display: block;
+    font-size: 10px;
+    color: rgb(206, 211, 211);
+}
+.f_icons{
+    margin-top: 6vh;
+    margin-left: 10vw;
+}
+.f_icons i{
+    font-size: 30px;
+    margin-right: 3vw;
+}
+.f_images{
+    float: right;
+    margin-right: 5vw;
+}
+.f_images a img{
+    width:100px;
+    margin-right: 2vw;
+    height:40px;
+    margin-top: -10vh;
+    
+
+}
