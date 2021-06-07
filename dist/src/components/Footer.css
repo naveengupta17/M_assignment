@@ -47,3 +47,38 @@ pre{
     
 
 }
+@media(min-width:300px) and (max-width:500px){
+    .footer{
+        position: absolute;
+        bottom: 0%;
+        color: white;
+        background-color: rgb(42, 44, 46);
+        width:100vw;
+        height:30vh;
+    }
+    .f_links{
+        margin:5vh 0vw 3vh 10vw;
+    }
+    .f_icons{
+        margin-top: 1vh;
+        margin-bottom: 2vh;
+        margin-left: 10vw;
+    }
+    .f_icons i{
+        font-size: 15px;
+        margin-right: 3vw;
+    }
+    .f_images{
+        margin-top:3vh;
+        margin-right: 5vw;
+    }
+    .f_images a img{
+        width:100px;
+        margin-right: 2vw;
+        height:40px;
+      
+        
+    
+    }
+
+}

@@ -36,3 +36,32 @@
     width:100px;
     font-size: 10px;
 }
+
+@media(min-width:300px) and (max-width:500px){
+    .c_sub{
+        margin-right: 10px;
+        margin-bottom: 5px;
+        width:170px;
+        height: 200px;
+        overflow: hidden;
+    }
+    .c_content{
+        margin:2vh 28vw;
+        overflow:scroll;
+        width: 180px;
+        height: 50vh;
+        
+    
+    }
+    .c_sub img{
+        width:180px;
+        height: 180px;
+    }
+    .c_sub p{
+        display: block;
+        width:100px;
+        font-size: 10px;
+    }
+
+
+}
