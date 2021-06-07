@@ -1,3 +1,16 @@
+# How did you decide on the technical  choices used as part of your solution?
+I used react js to build this project becouse it is component based and components are resuble. hence code redudancy is minimum, and it is SEO
+friendly.performance enhancement and Creating Dynamic Web Applications Becomes Easier.
+
+
+# Are there any improvements you could make to your submission?
+Yes
+
+# What would you do differently if you were allocated more time?
+We can add more types of titles in our project to attract more users and. we can also use realtime api for our project. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
